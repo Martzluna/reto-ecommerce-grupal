@@ -1,0 +1,51 @@
+
+body{
+    box-sizing: border-box;
+    margin:0;
+    font-size: 17px;
+    background-color: rgb(74, 73, 75) !important;
+}
+
+nav{
+    background-color:#7b6b94;
+    width: 100%;
+
+}
+
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.menu .encabezado{
+    display: inline-block;
+    
+}
+
+.encabezado a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 30px 30px;
+    display: block;
+}
+
+.encabezado a:hover{
+    background-color:#485563;
+}
+
+/* .table{
+    align-items: center;
+    width: 900px;
+    justify-content: center;
+} */
+
+#cards{
+    width:90% center;
+}
+
+#titleCart{
+    color: aliceblue !important;
+}

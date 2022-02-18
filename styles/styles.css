@@ -1,0 +1,15 @@
+.carImgs{
+    height: 65vh;   
+}
+
+#cardsHome{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: baseline !important;
+    flex-wrap: wrap;
+    gap: 30px;
+    background-color: rgb(74, 73, 75);
+    padding: 10px;
+    height: auto;
+    justify-items: center;
+}

@@ -1,0 +1,77 @@
+{
+  "lista": [
+    {
+      "id": 1,
+      "precio": 300000,
+      "title": "Asistente Alexa",
+      "image": "./images/Alexa.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "precio": 5000000,
+      "title": "Atlas Boston Dynamic",
+      "image": "./images/Atlas.jpg"
+    },
+    {
+      "id": 3,
+      "precio": 1500000,
+      "title": "Drone con A.I.",
+      "image": "./images/Drone.jpg"
+    },
+    {
+      "id": 4,
+      "precio": 550000,
+      "title": "Control de X-box",
+      "image": "./images/Game.jpg"
+    },
+    {
+      "id": 5,
+      "precio": 299999,
+      "title": "Laptop Huawei",
+      "image": "./images/Huawei_laptop.jpg"
+    },
+    {
+      "id": 6,
+      "precio": 3879990,
+      "title": "Gafas de realidad aumentada",
+      "image": "./images/Metaverse.jpeg"
+    },
+    {
+      "id": 7,
+      "precio": 2499000,
+      "title": "Laptop Asus",
+      "image": "./images/Laptop.jpg"
+    },
+    {
+      "id": 8,
+      "precio": 8790000,
+      "title": "Robodog Boston Dynamic",
+      "image": "./images/Robodog.jpg"
+    },
+    {
+      "id": 9,
+      "precio": 756000,
+      "title": "Celular Redmi Note 9",
+      "image": "./images/Xiaomi2.jpg"
+    },
+    {
+      "id": 10,
+      "precio": 756000,
+      "title": "Celular Redmi Note 9",
+      "image": "./images/Xiaomi2.jpg"
+    },
+    {
+      "id": 11,
+      "precio": 756000,
+      "title": "Celular Redmi Note 9",
+      "image": "./images/Xiaomi2.jpg"
+    },
+    {
+      "id": 12,
+      "precio": 756000,
+      "title": "Celular Redmi Note 9",
+      "image": "./images/Xiaomi2.jpg"
+    }
+  ]
+}
